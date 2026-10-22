@@ -1,0 +1,6 @@
+{
+  "name": "Xubio - Gestión Contable y Empresarial",
+  "description": "Plataforma de gestión contable, facturación y administración empresarial con autenticación completa y panel de control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
